@@ -55,9 +55,4 @@ O modelo contempla:
 - **Fornecedor**  
 - **Estoque**  
 
----
 
-## 🚀 Como Executar
-1. Clone o repositório:
-   ```bash
-  git clone https://github.com/mayerbet/dio/blob/main/DER%20e-commerce.pdf
