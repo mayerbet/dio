@@ -60,4 +60,4 @@ O modelo contempla:
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/seu-projeto.git
+  [ git clone https://github.com/SEU_USUARIO/seu-projeto.git](https://github.com/mayerbet/dio/blob/main/DER%20e-commerce.pdf)
